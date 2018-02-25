@@ -1,3 +1,5 @@
+# Redemption
+
 ![](http://i.imgur.com/n2btoyI.png)
 
 Welcome to the WoW-Mania's Wiki!
