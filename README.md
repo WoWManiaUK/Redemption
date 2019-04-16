@@ -1,6 +1,6 @@
 # Redemption
 
-![](http://i.imgur.com/n2btoyI.png)
+![](https://imgur.com/yG0f6qT.png)
 
 Welcome to the WoW-Mania's Wiki!
 
