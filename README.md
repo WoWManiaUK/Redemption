@@ -1,5 +1,7 @@
 # Redemption
 
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/wowmaniauk/redemption.svg)](http://isitmaintained.com/project/wowmaniauk/redemption "Average time to resolve an issue")
+
 ![](https://imgur.com/yG0f6qT.png)
 
 Welcome to the WoW-Mania's Wiki!
@@ -8,3 +10,4 @@ Welcome to the WoW-Mania's Wiki!
 * [How to Properly Report an Issue](https://github.com/wow-mania/Redemption/wiki/How-to-Properly-Report-an-Issue)
 * [Solve an Issue and Get Paid](https://github.com/wow-mania/Redemption/wiki/Solve-an-Issue-and-get-Paid)
 * [List of Current Issues](https://github.com/wow-mania/Redemption/issues)
+
