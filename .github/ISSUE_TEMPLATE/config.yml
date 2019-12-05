@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
 
-  - name: IMPORTANT Read before making a bug report!!
+  - name: IMPORTANT: Read before making a bug report!!
     url: https://github.com/WoWManiaUK/Redemption/blob/master/CONTRIBUTING.md
     about: This contains info on how to properly report a bug.
   - name: WoW-Mania Community Forum
