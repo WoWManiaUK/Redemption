@@ -1,6 +1,9 @@
 blank_issues_enabled: false
 contact_links:
 
+  - name: FOR EXPLOITS ONLY!!
+    url: https://docs.google.com/forms/d/e/1FAIpQLScFSPhrlPpo0K1zRsRkokJVWK7RZVtEbyN7k3ZupLf8yheCbg/viewform
+    about: This is a form where you can report gamebreaking bugs or exploits that gives unfair advantages for players. No "normal" reports are allowed here, as they will be ignored!
   - name: IMPORTANT Read before making a bug report!!
     url: https://github.com/WoWManiaUK/Redemption/blob/master/CONTRIBUTING.md
     about: This contains info on how to properly report a bug.
