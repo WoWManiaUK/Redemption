@@ -33,7 +33,7 @@ Now that you have read and understood the rules click on the link below to go to
 
 WotLK Issues:
 
-https://github.com/wow-mania/Redemption/issues
+https://github.com/WoWManiaUK/Redemption/issues
 
 Cata Issues:
 
