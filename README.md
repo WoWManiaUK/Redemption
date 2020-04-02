@@ -2,8 +2,6 @@
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/wowmaniauk/redemption.svg)](http://isitmaintained.com/project/wowmaniauk/redemption "Average time to resolve an issue")
 
-![](https://imgur.com/yG0f6qT.png)
-
 Welcome to the WoW-Mania's Wiki!
 
 * [Intro](https://github.com/wow-mania/Redemption/wiki/Intro)
