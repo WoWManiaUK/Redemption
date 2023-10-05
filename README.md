@@ -1,7 +1,5 @@
 # Redemption
 
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/wowmaniauk/redemption.svg)](http://isitmaintained.com/project/wowmaniauk/redemption "Average time to resolve an issue")
-
 Welcome to the WoW-Mania's Wiki!
 
 ![picture](https://i.imgur.com/JD5ZlfE.png)
