@@ -14,4 +14,4 @@ Welcome to the WoW-Mania's Wiki!
 
 
 
-[![WoW-Mania](https://github.com/fvicaria/Trinity/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/fvicaria/Trinity/actions/workflows/c-cpp.yml) [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/wowmaniauk/redemption.svg)](http://isitmaintained.com/project/wowmaniauk/redemption "Average time to resolve an issue")
+[![WoW-Mania](https://github.com/fvicaria/Trinity/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fvicaria/Trinity/actions/workflows/build.yml) [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/wowmaniauk/redemption.svg)](http://isitmaintained.com/project/wowmaniauk/redemption "Average time to resolve an issue")
